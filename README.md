@@ -1,0 +1,1 @@
+# -Hspice-source-auto-generate-of-netlist-from-schematic-using-matlab
