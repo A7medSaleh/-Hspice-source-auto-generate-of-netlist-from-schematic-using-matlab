@@ -1,7 +1,7 @@
 # -Hspice-source-auto-generate-of-netlist-from-schematic-using-matlab
  
 Get the code from here: 
-https://gum.co/mDlkO 
+https://gum.co/uOYYP
  
 Watch the code from here: 
 https://www.youtube.com/watch?v=AbiZIsRUN8c&t=4s
@@ -13,7 +13,7 @@ Also included is the Hspice source code with working license.
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
